@@ -1,0 +1,6 @@
+%{"cowboy": {:hex, :cowboy, "1.0.4"},
+  "cowlib": {:hex, :cowlib, "1.0.2"},
+  "floki": {:hex, :floki, "0.7.1"},
+  "mochiweb": {:hex, :mochiweb, "2.12.2"},
+  "plug": {:hex, :plug, "1.1.0"},
+  "ranch": {:hex, :ranch, "1.2.1"}}
