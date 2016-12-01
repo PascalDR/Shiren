@@ -32,6 +32,6 @@ use Mix.Config
 config :shiren,
   path_root: "/home/nero/",
   path_template: "templates/index.html.eex",
-  site_title: "Arduino IDE",
+  site_title: "Shiren",
   include_hidden_files: false,
   show_log: false
